@@ -1,0 +1,16 @@
+name = 'heat'
+version = '1.0.2'
+author = 'rose'
+license = 'gnu'
+sha256 = 'fe36b2f1a3542e47791e907f2f404c2074edaf25d2c77a19b58543f3ebcd40a6'
+
+[[sources]]
+url = 'https://theRose20.ru'
+
+[auto]
+size_bytes = 7944
+objects = 3
+external_assets = 1
+has_lua = false
+uses_webrequest = false
+uses_dynamic_code = false

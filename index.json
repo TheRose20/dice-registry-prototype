@@ -1,0 +1,22 @@
+{
+  "format": 1,
+  "packages": {
+    "heat": {
+      "author": "rose",
+      "license": "gnu",
+      "versions": [
+        "1.0.0",
+        "1.0.2"
+      ],
+      "latest": "1.0.2",
+      "auto": {
+        "size_bytes": 7944,
+        "objects": 3,
+        "external_assets": 1,
+        "has_lua": false,
+        "uses_webrequest": false,
+        "uses_dynamic_code": false
+      }
+    }
+  }
+}
