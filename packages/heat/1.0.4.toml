@@ -1,0 +1,16 @@
+name = 'heat'
+version = '1.0.4'
+author = 'rose'
+license = 'all-rights-reserved'
+sha256 = '840D5B36F7C1D07AD07BC986783C68DE8E7034287FF75FB7E8E99B752C179E45'
+
+[[sources]]
+url = 'http://cybrenok92.temp.swtest.ru/heat.json'
+
+[auto]
+size_bytes = 7944
+objects = 3
+external_assets = 1
+has_lua = false
+uses_webrequest = false
+uses_dynamic_code = false
