@@ -3,12 +3,13 @@
   "packages": {
     "heat": {
       "author": "rose",
-      "license": "gnu",
+      "license": "all-rights-reserved",
       "versions": [
         "1.0.0",
-        "1.0.2"
+        "1.0.2",
+        "1.0.3"
       ],
-      "latest": "1.0.2",
+      "latest": "1.0.3",
       "auto": {
         "size_bytes": 7944,
         "objects": 3,
