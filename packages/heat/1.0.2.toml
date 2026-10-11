@@ -5,7 +5,7 @@ license = 'gnu'
 sha256 = 'fe36b2f1a3542e47791e907f2f404c2074edaf25d2c77a19b58543f3ebcd40a6'
 
 [[sources]]
-url = 'https://theRose20.ru'
+url = 'https://gitflic.ru/project/gitmirrorplease/dice-registry-prototype/blob/raw?file=testdata%2Fheat.json&commit=988b021b0e2c36af2bd945737ca24538f7e35e94'
 
 [auto]
 size_bytes = 7944
